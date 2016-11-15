@@ -5,5 +5,7 @@ MTA_KEY = 'b9007f42-47a5-4d4d-b2b7-380519e55b6e';
 
 var url = function(stopId){
     return 'http://bustime.mta.info/api/siri/stop-monitoring.json?key=' + MTA_KEY + '&OperatorRef=MTA&MaximumStopVisits=1&MonitoringRef=' + stopId;
-    
+
 }
+
+cool
